@@ -31,6 +31,8 @@ let vm = Vue.createApp({
   }
 })
 
+//------------------- first component
+
 vm.component('hello', {
   data() {
     return{
